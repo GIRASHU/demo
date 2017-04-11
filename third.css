@@ -89,7 +89,7 @@
 	height: 800px;
 }
 .slider-container{
-	width: 100%;
+	width: 1903px;
 	height: 790px;
 	margin: 0px auto;
 	position: relative;
@@ -292,7 +292,7 @@
 }
 /* Third */ 
 .feature{
-	width: 100%;
+	width: 1903px;
 	height: 287px;
 	position: relative;
 }
@@ -321,7 +321,7 @@
 
 /* 4th*/
 .experienced{
-	width: 100%;
+	width: 1903px;
 	height: 273px;
 	background-color: #222;
 	display: inline-block;
@@ -358,7 +358,7 @@
 /*  5th */
 
 .self-intro{
-	width: 100%;
+	width: 1906px;
 	height: 490px;
 	display: inline-block;
 	padding-top: 60px;
@@ -429,7 +429,7 @@
 /*  6th */
 
 .activities{
-	width: 100%;
+	width: 1960px;
 	height: 506px;
 }
 .activities-pic{
@@ -467,7 +467,7 @@
 /* 7th */
 
 .teachers{
-	width: 100%;
+	width: 1903px;
 	height: 847px;
 }
 
@@ -533,7 +533,7 @@
 
 /* 9th */
 .events{
-	width: 100%;
+	width: 1903px;
 	height: 730px;
 	background-color: #f6f6f7;
 }
@@ -595,7 +595,7 @@
 
 /* 10th */
 .contacts{
-	width: 100%;
+	width: 1903px;
 	height: 280px;
 }
 .contacts-wrap{
