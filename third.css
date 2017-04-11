@@ -1,4 +1,4 @@
-.content{
+﻿.content{
 	width: 100%;
 	height: 220px;
 }
@@ -404,7 +404,7 @@
 }
 .self-intro-rightpart{
 	width: 600px;
-	height: 145px;
+	height: 400px;
 	display: inline-block;
 	margin-left: 145px;
 }
