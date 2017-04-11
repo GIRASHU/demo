@@ -404,8 +404,8 @@
 }
 .self-intro-rightpart{
 	width: 600px;
-	height: 145px;
-	display: inline-block;
+	height: 400px;
+	display: inline;
 	margin-left: 145px;
 }
 .video-container {
